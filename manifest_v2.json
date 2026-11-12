@@ -3,18 +3,17 @@
     "id": "com.xiaomi.pokerogue",
     "restype": "quick_app",
     "name": "宝可梦肉鸽",
-    "description": "《宝可梦肉鸽》是原版 PokeRogue 玩法的手环移植版。你将在不断变化的地形中探索、捕获、进化，组建自己的队伍，挑战馆主、天王与冠军。\n \n1,000+ 宝可梦全部可抓，支持进化、形态、闪光与被动解锁；35 种地形带来不同的生态与敌人；经典、挑战、无尽、每日四种模式，随时开一局。糖果、蛋招式、永久成长，让每一次失败都变成下一次更强的起点。\n \n针对小米手环 9 Pro 480×336 横屏深度适配，界面轻量、操作直接，不占手机空间，抬腕就能继续冒险。\n\nbug反馈加QQ群:956806812",
+    "description": "《宝可梦肉鸽》手环版把一局完整的肉鸽冒险装进了手腕。\n\n每一局都会生成不同的路线与遭遇：穿过草地、洞窟和水域，遇见野生宝可梦、训练家、道馆馆主和首领。战斗、捕捉、换宠、选招、拿奖励，全部为小屏重新排布，不需要掏手机。\n\n从初始伙伴开始，一路收集图鉴、孵蛋、解锁新形态，搭配招式与队伍，挑战越来越强的对手。单机离线也能玩，适合通勤、排队和睡前的碎片时间。\n\n适配 Xiaomi Smart Band 9 Pro。免费发布，安装即玩。\n\n\nbug反馈加QQ群:956806812",
     "preview": [
-      "media/60949.png",
-      "media/60948.png",
-      "media/60947.png",
-      "media/61024.png",
-      "media/61025.png",
-      "media/61026.png",
-      "media/61027.png"
+      "media/61068.png",
+      "media/61062.png",
+      "media/61064.png",
+      "media/61065.png",
+      "media/61066.png",
+      "media/61067.png"
     ],
     "icon": "media/61023.png",
-    "cover": "media/61030.png",
+    "cover": "media/61072.png",
     "author": [
       {
         "name": "play3",
@@ -25,14 +24,14 @@
   "links": [],
   "downloads": {
     "xmb9p": {
-      "version": "3.9.170",
-      "file_name": "downloads/宝可梦肉鸽v1.2(存储占用和性能优化).rpk",
-      "versionCode": 269
+      "version": "1.2.0",
+      "file_name": "downloads/PokeRogue_1.2.0_AstroBox_release.rpk",
+      "versionCode": 270
     },
     "xmb10p": {
-      "version": "3.9.170",
-      "file_name": "downloads/宝可梦肉鸽v1.2(存储占用和性能优化).rpk",
-      "versionCode": 269
+      "version": "1.2.0",
+      "file_name": "downloads/PokeRogue_1.2.0_AstroBox_release.rpk",
+      "versionCode": 270
     }
   },
   "ext": {}
