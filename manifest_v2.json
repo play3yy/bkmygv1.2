@@ -9,8 +9,7 @@
       "media/61062.png",
       "media/61064.png",
       "media/61065.png",
-      "media/61066.png",
-      "media/61067.png"
+      "media/61066.png"
     ],
     "icon": "media/61023.png",
     "cover": "media/61072.png",
@@ -21,7 +20,13 @@
       }
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "title": "QQ群",
+      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=SRhO92bpWwyI3NJ78mOAKk2U8BPB9ZYEqEZ0bKdXh66S28TnuhExUGNrqnhoCV7K&busi_data=eyJncm91cENvZGUiOiI5NTY4MDY4MTIiLCJ0b2tlbiI6ImNXWGkySFhFVml0K0VnWGtmQXFaMjVjSVJFZTRXZzRvc2pSdlJwWVZ3cGhmUDRIM2lpZ0E4U25NK2ZnYTY2Y1QiLCJ1aW4iOiIxMTkzMDI1MjgzIn0%3D&data=FIGunBNp4MFsq4jZq5PEO8FD_38sQt42d3tvJkIggJio4NJ0BCf5un6doJHSCi_kLed8pyJhl2gNxfMEgHRIkQ&svctype=4&tempid=h5_group_info",
+      "icon": "wechat-logo"
+    }
+  ],
   "downloads": {
     "xmb9p": {
       "version": "1.2.0",
