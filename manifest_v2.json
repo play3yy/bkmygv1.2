@@ -11,7 +11,7 @@
       "media/61065.png",
       "media/61066.png"
     ],
-    "icon": "media/61023.png",
+    "icon": "media/61319.png",
     "cover": "media/61292.jpg",
     "author": [
       {
@@ -29,14 +29,14 @@
   ],
   "downloads": {
     "xmb9p": {
-      "version": "1.2.2",
-      "file_name": "downloads/PokeRogue_1.2.2_AstroBox_release.rpk",
-      "versionCode": 272
+      "version": "1.3.2",
+      "file_name": "downloads/PokeRogue_1.3.2_AstroBox_release.rpk",
+      "versionCode": 283
     },
     "xmb10p": {
-      "version": "1.2.2",
-      "file_name": "downloads/PokeRogue_1.2.2_AstroBox_release.rpk",
-      "versionCode": 272
+      "version": "1.3.2",
+      "file_name": "downloads/PokeRogue_1.3.2_AstroBox_release.rpk",
+      "versionCode": 283
     }
   },
   "ext": {}
